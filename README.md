@@ -1,5 +1,5 @@
 # rust-a
- [![raspberry](https://raspberrypi.fritz.box/favicon.ico) ] (https://raspberrypi.fritz.box)
+ [![raspberry](http://raspberrypi.fritz.box/favicon.ico) ] (http://raspberrypi.fritz.box)
  
 * README from Rust projects  
 
