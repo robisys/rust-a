@@ -3,15 +3,16 @@ extern crate curl;
 use curl::http;
 
 pub fn main() {
-  let url= "http://raspberrypi/favicon.ico";
+  let url= "http://raspberrypi.fritz.box";
   
   let resp = http::handle()
     .get(url)
     .exec().unwrap();
 
   println!("url= {:?} ",url);
-  println!("code={}; headers={:?}; body={:?}",
-    resp.get_code(), resp.get_headers(), resp.get_body());
+  println!("code={}; headers={:?}; --",
+    resp.get_code(), resp.get_headers());
+    
 }
 
 /*
