@@ -10,7 +10,6 @@ env:
 script: 
      - cargo build
      - cargo test
-     - cargo run
      - cargo build --example bsp1
      - cargo build --example bsp3
      
