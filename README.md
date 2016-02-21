@@ -5,7 +5,7 @@
 [![Crates.io Status](http://meritbadge.herokuapp.com/iron)](https://crates.io/crates/iron)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/iron/iron/master/LICENSE)
 
-[![Build Status](https://secure.travis-ci.org/robisys/myprog.svg?branch=master)](https://travis-ci.org/robisys/myprog)
+[![Build Status](https://secure.travis-ci.org/robisys/myprog.svg?branch=master)](https://travis-ci.org/robisys/rust-a)
 
 > Extensible, Concurrency Focused Web Development in Rust.
 
