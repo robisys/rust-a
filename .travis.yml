@@ -11,6 +11,7 @@ script:
      - cargo build
      - cargo test
      - cargo run
-
+     - cargo build --example bsp3
+     
 after_success:
     "echo 'success' > target/test.txt "
